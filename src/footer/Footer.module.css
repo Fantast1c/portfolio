@@ -1,0 +1,19 @@
+.footerBlock{
+    height: 40vh;
+    background-color: #d499c5;
+}
+
+.footerContainer{
+    flex-direction: column;
+}
+
+.title{
+    background-color: #c1bebe;
+}
+
+.webs{
+    border: 1px solid #b8b175;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

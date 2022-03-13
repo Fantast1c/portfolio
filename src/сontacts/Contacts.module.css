@@ -1,0 +1,22 @@
+.contactsBlock{
+    height: 100vh;
+    background-color: #6ba556;
+}
+
+.projectsContainer{
+    flex-direction: column;
+    justify-content: start;
+}
+
+.title{
+    background-color: #c1bebe;
+}
+
+.forms{
+    width: 60%;
+    height: 60%;
+    border:1px solid #ff8888;
+    display: grid;
+    grid-template-rows: 1fr 1fr 5fr;
+    grid-row-gap: 10px;
+}
